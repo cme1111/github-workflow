@@ -1,4 +1,4 @@
 # github-workflow
 
-- "To improve is to change and more stuff to force a merge conflict. Again"
+- "To improve is to change" 
 - "There is nothing permanent, except change"
